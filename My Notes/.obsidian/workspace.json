@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "7b1e6a7dd97dbf8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "79c8d08794621778",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd45e99644e4294a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPACES/PERSONAL & MISC/Study idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Study idea"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6b066ae34dd77fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e43293df3c5016a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6e175d14dd9fe1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "File explorer"
+            }
+          },
+          {
+            "id": "459f40cd9bad202e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "css",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4d443e16df103333",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "right": {
+    "id": "afdbe7731aa09602",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6a82146a8b35785",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efa38b31babea0f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "e58d614b856ba7c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "509b7e5c8ed0d7f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b8f045a55bc6962e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "+Index for Personal.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of +Index for Personal"
+            }
+          },
+          {
+            "id": "208fb59717c83c60",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dd45e99644e4294a",
+  "lastOpenFiles": [
+    "SPACES/PERSONAL & MISC/Story idea - prison.md",
+    "ATLAS/MOCs/Updating staging.learn.tiddalik.com.au.md",
+    "ATLAS/MOCs/TIDDALIK Web MOC.md",
+    "SPACES/HTML CSS & Javascript/Grav Child Themes - guide.md",
+    "ATLAS/MOCs/WEB DESIGN MOC.md",
+    "SPACES/WRITING PROJECTS/Story 1/Notes/Time travel notes 1.md",
+    "SPACES/HTML CSS & Javascript/SCSS compared to Raw CSS.md",
+    "SPACES/HTML CSS & Javascript/Responsive Layout Templates.md",
+    "SPACES/HTML CSS & Javascript/BEM CSS Class Method.md",
+    "SPACES/WRITING PROJECTS/Story 1/Notes/Untitled.md",
+    "SPACES/WRITING PROJECTS/Story 1/Story 1 Pt 1 Ch1.md",
+    "SPACES/WRITING PROJECTS/Story 1/Notes/updated-time-travel-notes.md",
+    "SPACES/WRITING PROJECTS/Story 1/Notes/Time travel notes 1.md.bak",
+    "SPACES/WRITING PROJECTS/Story 1/Story 1 - Structure.md",
+    "SPACES/WRITING PROJECTS/Story 1/Notes/[[.md",
+    "ATLAS/MOCs/WRITING MOC.md",
+    "+Index for Personal.md",
+    "Project Dashboard - Story 1.md",
+    "SPACES/PERSONAL & MISC/Signal Backup Code.md",
+    "Welcome.md",
+    "SPACES/WRITING PROJECTS/Story 1/Notes/Earth's Movement Through Space.md",
+    "SPACES/WRITING PROJECTS/Story 1/Notes/[.md",
+    "SPACES/WRITING PROJECTS/Story 1/Story 1 Pt 1 Ch2.md",
+    "SPACES/WRITING PROJECTS/Story 1/Notes",
+    "EXTRAS/Templates/TP Writing project MOC.md",
+    "EXTRAS/Templates/TP Writing project structure.md",
+    "SPACES/WRITING PROJECTS/Story 1",
+    "SPACES/WRITING PROJECTS/Story 2.md",
+    "EXTRAS/TASKS PERSONAL & TIDDALIK.md",
+    "SPACES/WRITING PROJECTS",
+    "examples",
+    "🏡 PERSONAL/SOURCEs/To Process/_resources/Branand,_B.,_&_Nakamura,_J._(2016)._The_well-being_of_teachers_and_professors_(In_Handbook_of_Psycology_of_Positivity_and_Strengths-based_appraoches_at_work).resources",
+    "🏡 PERSONAL/SOURCEs/To Process/_resources",
+    "🏡 PERSONAL/SOURCEs/To Process",
+    "🏡 PERSONAL/SOURCEs",
+    "🏡 PERSONAL",
+    "SOURCES/Attachments/Pasted image 20241010034419.png",
+    "SOURCES/Attachments/Pasted image 20240529173926.png",
+    "SOURCES/Attachments/Pasted image 20240529173107.png",
+    "SOURCES/Attachments/Pasted image 20240529173034.png",
+    "SOURCES/Attachments/Pasted image 20240528113251.png",
+    "SOURCES/Attachments/Pasted image 20240528112054.png",
+    "SOURCES/Attachments/Pasted image 20240503154404.png",
+    "SOURCES/Attachments/Pasted image 20240503154149.png",
+    "SOURCES/Attachments/Pasted image 20240411102747.png",
+    "SOURCES/Attachments/MoodlePluginOverview.png"
+  ]
+}

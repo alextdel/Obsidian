@@ -1,0 +1,5 @@
+{
+  "template": "EXTRAS/Templates/TP daily",
+  "folder": "CALENDAR/Journal",
+  "format": "YYYY/MM(MMM)/YY-MM-DD"
+}

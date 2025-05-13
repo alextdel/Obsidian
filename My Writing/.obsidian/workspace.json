@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "5c50596dc5ec1d83",
+    "type": "split",
+    "children": [
+      {
+        "id": "27cb710405f774ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac252271e1bb151d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Writing/02_Writing Resources/00_templates/TP_Project Dashboard.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TP_Project Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a2af7cd034e4a7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4dcf0b080d9e42e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc3e13dea794b4f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "25117d51e75caec1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1a5eb37c2a7e8898",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f19de43d93f61c3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fa3ccfef5a8d84c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b07f6e6ec5e5bb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "My Writing/Writing Projects/01_Projects/Project 1/01_Dashboard/Timeslip.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Timeslip"
+            }
+          },
+          {
+            "id": "10950d08689caf1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "My Writing/Writing Projects/01_Projects/Project 1/01_Dashboard/Timeslip.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Timeslip"
+            }
+          },
+          {
+            "id": "28c861e1026ed8fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a37e4b95dd0fafdc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "My Writing/Writing Projects/01_Projects/Project 1/01_Dashboard/Timeslip.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Timeslip"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ac252271e1bb151d",
+  "lastOpenFiles": [
+    "My Writing/02_Writing Resources/00_templates/TP_Daily_Note.md",
+    "My Writing/02_Writing Resources/00_templates/TP_Project Dashboard.md",
+    "My Writing/00_Writing Log/2025/05_May/13th-May (Tue).md",
+    "My Writing/00_Writing Log/2025/05_May/12-May (Mon).md",
+    "My Writing/00_Writing Log/2025/05_May/2025_05_12.md",
+    "My Writing/00_Writing Log/2025/05_May",
+    "My Writing/Writing Projects/01_Projects/Project 1/01_Dashboard/Timeslip.md",
+    "My Writing/00_Writing Log/2025",
+    "My Writing/01_Seeds"
+  ]
+}

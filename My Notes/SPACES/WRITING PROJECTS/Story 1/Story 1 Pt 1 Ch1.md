@@ -1,0 +1,6 @@
+From the open front door, I couldn't see very far across the valley that contained our neighbourhood. The rain came down, splashed up and blew sideways. The spray wetted the screen door and sprayed through onto my legs. In the distance, the mist of falling and gusting water droplets formed an ever thicker filter of more and more layers of wind-swirled rain reducing visibility to a grey-white backdrop where normally the nearby houses, surrounding town buildings and faraway hills normally were visible. 
+I heard running footsteps, splashing urgently around the corner of the house.
+"Quick! Are you going to let me in?", my visitor hissed from the fur rimmed hood of her once-waterproofed green anorak.
+"Are you the stripper I ordered?", I said standing back just enough to open the door outwards while letting her through.
+"Get out of the fucking way, dipstick," she passed and swore, deliberately shaking her head and saturated fur hood in my direction. She quickly disappeared into the kitchen, wetting the table with the soaked shopping bag and peeling off her coat.
+I looked again through the flyscreen door as it closed under the pressure of the small automatic closer. The rain blew up, splashed sideways and continued to come down.
