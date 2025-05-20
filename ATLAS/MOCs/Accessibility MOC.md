@@ -16,7 +16,7 @@ This note contains the navigation links to notes concerned with Accessibility in
 #### Link to Permanent Notes
 - [[PDF Tags]]
 - [[WCAG Accessibility]]
-- [[Tiddalik Colour Accessibility Check]]
+- [[Colour Accessibility Checker]]
 - [[PDF Accessibility Fixes]]
 - 
 

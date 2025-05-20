@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f96d44fffa3fb8e2",
+        "id": "c8faaa61c3625fee",
         "type": "tabs",
         "children": [
           {
-            "id": "16664744ca2a3edd",
+            "id": "8c066ec9d80b09ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Index for Personal.md",
+                "file": "EXTRAS/Templates/TP note.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "+Index for Personal"
+              "title": "TP note"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "accessibility",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,8 +165,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16664744ca2a3edd",
+  "active": "8c066ec9d80b09ad",
   "lastOpenFiles": [
+    "ATLAS/MOCs/Accessibility MOC.md",
+    "SPACES/ACCESSIBILITY/Colour Accessibility Checker.md",
+    "SPACES/ACCESSIBILITY/PDF Accessibility Fixes.md",
+    "SPACES/ACCESSIBILITY/Adobe Indesign Accessibility.md",
+    "+Index for Personal.md",
+    "SPACES/WRITING PROJECTS/OBSIDIAN WRITING VAULT SETUP/_Obsidian Writing Vault Design.md",
+    "SPACES/WRITING PROJECTS/OBSIDIAN WRITING VAULT SETUP/Subsections/Vault Creation Script.md",
+    "ATLAS/MOCs/WRITING MOC.md",
+    "SPACES/WRITING PROJECTS/OBSIDIAN WRITING VAULT SETUP/Subsections/Character Appearances.md",
+    "SPACES/WRITING PROJECTS/OBSIDIAN WRITING VAULT SETUP/Subsections",
+    "SPACES/WRITING PROJECTS/OBSIDIAN WRITING VAULT SETUP/TEMPLATE samples/1. Project Template (00-Project-Home.md).md",
+    "SPACES/WRITING PROJECTS/OBSIDIAN WRITING VAULT SETUP/TEMPLATE samples",
+    "SPACES/WRITING PROJECTS/OBSIDIAN WRITING VAULT SETUP/Subsections/Location Usage.md",
+    "SPACES/WRITING PROJECTS/OBSIDIAN WRITING VAULT SETUP/Subsections/Scene Status Overview.md",
+    "SPACES/WRITING PROJECTS/OBSIDIAN WRITING VAULT SETUP/TEMPLATE samples/6. Writing Journal Template (Daily Journal).md",
+    "SPACES/WRITING PROJECTS/OBSIDIAN WRITING VAULT SETUP/TEMPLATE samples/5. Location Template (Location.md).md",
+    "SPACES/WRITING PROJECTS/OBSIDIAN WRITING VAULT SETUP/TEMPLATE samples/4. Character Template (Main-Character.md).md",
+    "SPACES/WRITING PROJECTS/OBSIDIAN WRITING VAULT SETUP/TEMPLATE samples/3. Scene Template (Scene.md).md",
+    "SPACES/WRITING PROJECTS/OBSIDIAN WRITING VAULT SETUP/TEMPLATE samples/2. Chapter Template (Chapter.md).md",
+    "SPACES/WRITING PROJECTS/OBSIDIAN WRITING VAULT SETUP/Subsections/Suggested Obsidian Plugins.md",
+    "README.md",
+    "SPACES/WRITING PROJECTS/OBSIDIAN WRITING VAULT SETUP/Subsections/Day to Day Usage Instructions.md",
+    "SPACES/WRITING PROJECTS/OBSIDIAN WRITING VAULT SETUP",
     "!NB - Push to Github.md",
     "SPACES/GIT/GIT Undoing Changes.md",
     "ATLAS/MOCs/Git MOC.md"

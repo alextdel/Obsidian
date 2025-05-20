@@ -9,6 +9,7 @@ ___
 This is the Writing MOC note containing the navigation links to writing projects.
 ### Navigation:
 #### Writing Project
+- [[_Obsidian Writing Vault Design]]
 - [[Story 1 - Structure]]
 - 
 

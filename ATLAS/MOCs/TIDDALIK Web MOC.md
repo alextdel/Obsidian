@@ -23,7 +23,7 @@ This MOC contains the links to the TIDDALIK settings pages
 - [[VentraIP Tiddalik Services WP Settings]]
 - [[Tiddalik.com.au Wordpress SECURITY Status]]
 - [[Microsoft Moodle OAUTH application authority]]
-- [[Tiddalik Colour Accessibility Check]]
+- [[Colour Accessibility Checker]]
 - [[General Tiddalik Colours]]
 - [[config.php file for learn Moodle]]
 - [[AWS Lightsail TDLK Learn Moodle]]

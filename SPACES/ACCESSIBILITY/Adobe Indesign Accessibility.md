@@ -70,13 +70,16 @@ By following these steps, you can ensure that your PDF document is accessible to
 
 Here are some additional tips for ensuring that your reading order is correct:
 
-* Test your document with a screen reader. There are many different screen readers available, so it is important to test your document with a few different ones to make sure that it works correctly with all of them.
-* Ask someone who is visually impaired to review your document. This is a great way to get feedback on your document and make sure that it is easy to read for everyone.
+* Test your document with
+	1. The [PAC 2024 PDF accessibility tool ](https://pac.pdf-accessibility.org/en) - this is an essential tool and will help to give guidance on any accesssibility problems. It is the industry standard tool
+	2. A range of screen readers. There are many different screen readers available, [NVDA Access](https://www.nvaccess.org/download/) is a free version that is widely used (Windows 8.1+). Browsers also have basic readers but they are not likely the ones used by users with significant disabilities.
+	3.  InDesign and Adobe Acrobat have their own PDF checkers - good to use in combination with 1. above.
+* If possible, ask someone who is visually impaired to review your document. This is a great way to get feedback on your document and make sure that it is easy to read for everyone.
 * Use a consistent style throughout your document. This will make it easier for users to follow the reading order.
 * Use clear and concise language. This will make it easier for users to understand your content.
 * Break up your text into smaller chunks. This will make it easier for users to read your document.
 * Use headings and subheadings to indicate the hierarchy of your information. This will help users understand the structure of your document.
-* Use bullet lists and numbered lists to organize your content. This will make it easier for users to scan your document and find the information they are looking for.
+* Use bullet lists and numbered lists to organise your content. This will make it easier for users to scan your document and find the information they are looking for.
 
 By following these tips, you can create a PDF document that is easy to read and understand for everyone.
 
